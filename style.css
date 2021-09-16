@@ -109,12 +109,32 @@ p {
 
 @media (max-width: 600px) {
   h1 {
-    font-size: large;
+    font-size: 48px;
   }
   h2 {
-    font-size: medium;
+    font-size: 24px;
   }
-  h3 {
-    font-size: small;
+
+  .text-start {
+    text-align: center !important;
+  }
+
+  .indexImg {
+    display: none;
+  }
+  .grid-navigation-links {
+    margin-bottom: 40px;
+  }
+  .navigation-links {
+    margin-bottom: 60px;
+  }
+
+  .email-link {
+    font-size: large;
+  }
+
+  .aboutImg {
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 }
