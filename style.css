@@ -94,7 +94,6 @@ p {
   display: flex;
   max-width: 100%;
 }
-
 .grid-navigation-links {
   margin-top: 40px;
   justify-content: center;
@@ -121,12 +120,6 @@ p {
 
   .indexImg {
     display: none;
-  }
-  .grid-navigation-links {
-    margin-bottom: 40px;
-  }
-  .navigation-links {
-    margin-bottom: 60px;
   }
 
   .email-link {
