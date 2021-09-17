@@ -130,4 +130,17 @@ p {
     margin-top: 20px;
     margin-bottom: 20px;
   }
+  .grid-navigation-links {
+    margin-top: 40px;
+    justify-content: center;
+    border-radius: var(--border-radius);
+    padding: var(--padding);
+    text-decoration: none;
+    text-transform: capitalize;
+    background: var(--primary-color);
+    box-shadow: var(--box-shadow);
+    color: white;
+    width: fit-content;
+    margin: 0 auto;
+  }
 }
